@@ -1,0 +1,33 @@
+html {
+    background-color: #303030;
+}
+
+h1 {
+    font-size: 10vw;
+}
+
+h3 {
+    font-size: 7.5vw;
+}
+.lime {
+    font-size: 10vw;
+}
+
+img {
+    display: none;
+}
+
+#white {
+    font-size: 18px;
+    text-align: justify;
+    margin-left: 8.5vw;
+    margin-right: 8.5vw;
+    padding-top: 5vh;
+}
+
+nav a {
+    font-size: 5vw;
+    padding-left: auto;
+    padding-right: auto;
+    display: inline-block;
+}

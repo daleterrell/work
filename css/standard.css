@@ -1,0 +1,112 @@
+html, body {
+    font-family: 'Anton', sans-serif;
+    font-size: x-large;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+body {
+    background-color: #01161e;
+	margin: 0;
+	scroll-behavior: smooth;
+}
+
+div p {
+    color: gray;
+    font-family: courier;
+    margin: 0 5em;
+}
+
+h1 {
+    color: #598392;
+    font-size: 15vh;
+    margin-left: 7.5vw;
+    margin-bottom: 0vh;
+    padding-bottom: 0vh;
+}
+
+h3 {
+    color: #aec3b0;
+    font-size: 5vh;
+    margin: 5vh 10vw;
+}
+
+#white {
+    color: white;
+    margin-right: 30vw;
+    text-align: justify;
+    padding-top: 5vw;
+}
+
+nav {
+    position: absolute;
+    padding-bottom: 1em;
+    top: 1em;
+	right: 2em;
+	font-size: 1.25rem;
+    z-index: 2;
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-left: 3em;
+}
+
+a:hover {
+    color: #124559;
+    margin-bottom: 10vh;
+}
+
+img {
+    display: none;
+}
+
+#contact div ul li {
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#home {
+    box-sizing: border-box;
+    background-image: url('../images/bkgd.jpg');
+    background-size: cover;
+}
+
+
+
+
+iframe {
+    margin-top: 5vw;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+
+article {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+ul {
+    padding-top: 7.5rem;
+}
+ul li {
+    text-decoration: none;
+    padding-left: 10vw;
+}
+
+.bkgd {
+    color: white;
+    padding-top: 10vh;
+}
+
+#portfolio {
+    background-color: #124559;
+}
